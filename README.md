@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Aysha Yazdani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aysha30](https://github.com/aysha30)
+- 👨‍💻 All of my projects are available in [my repositories](https://github.com/aysha30?tab=repositories)
 
 - 📫 How to reach me **ettashamriya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14gBd1m0PhRb-XyPBElNjw1gmOJa13VpJ/view?usp=sharing](https://drive.google.com/file/d/14gBd1m0PhRb-XyPBElNjw1gmOJa13VpJ/view?usp=sharing)
+- 📄 Know about my experiences from [my resume](https://github.com/aysha30/my-resume/blob/main/Aysha%20CV1.pdf)
 
 - ⚡ Fun fact **I'm an introvert**
 
