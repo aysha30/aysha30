@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ettashamriya@gmail.com**
 
-- 📄 Know about my experiences from [my resume](https://github.com/aysha30/my-resume/blob/main/Aysha%20CV1.pdf)
+- 📄 Know about my experiences from [my resume](https://github.com/aysha30/my-resume/blob/main/Aysha%20newres.pdf)
 
 - ⚡ Fun fact **I'm an introvert**
 
