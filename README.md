@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available in [my repositories](https://github.com/aysha30?tab=repositories)
 
-- Want to check my portfolio? Go to my [Aylio](https://github.com/aysha30/Aylio)
+- Want to check my portfolio? Go to my [Aylio](https://aylio.herokuapp.com/)
 
 - 📫 How to reach me **ettashamriya@gmail.com**
 
