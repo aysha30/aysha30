@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available in [my repositories](https://github.com/aysha30?tab=repositories)
 
+- Want to check my portfolio? Go to my [Aylio](https://github.com/aysha30/Aylio)
+
 - 📫 How to reach me **ettashamriya@gmail.com**
 
 - 📄 Know about my experiences from [my resume](https://github.com/aysha30/my-resume/blob/main/Aysha%20newres.pdf)
